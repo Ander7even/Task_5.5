@@ -23,7 +23,6 @@ namespace Task_5._5
                     Console.Write("{0,4} ", array[i, j]);
                 }
             }
-
             Console.ReadKey();
         }
     }
